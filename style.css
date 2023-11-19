@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: mv boli;
+    font-size: 70px;
+    background-image: linear-gradient(to right, rgb(199, 107, 45), rgb(157, 212, 212));
+    padding: 40px;
+    color: rgb(92, 92, 92);
+}
+
+h2 {
+    color: rgb(199, 107, 45);
+    font-family: consolas;
+    font-size: 35px;
+}
+
+p {
+    font-size: 25px;
+    border-top: 3px solid green;
+}
